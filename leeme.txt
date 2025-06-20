@@ -1,0 +1,9 @@
+Forma de ejecutar el proyecto
+
+cd todo-api
+php -S localhost:8000
+
+agregarle despues del localhost:8000 un /frontend/index.html
+
+http://localhost:8000/frontend/index.html
+
