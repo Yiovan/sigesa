@@ -7,3 +7,4 @@ agregarle despues del localhost:8000 un /frontend/index.html
 
 http://localhost:8000/frontend/index.html
 
+por fa realizar desde el XAMPP, muchas gracias
